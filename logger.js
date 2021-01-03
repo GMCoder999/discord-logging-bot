@@ -561,4 +561,4 @@ break;
 });
 
 client.on('error', e=> {console.log(e)})
-client.login(`BOT-TOKEN`).catch(e=>console.log(e));
+client.login(Nzk1MTg1NjQ4OTU1OTQ5MDc5.X_FsWA.tZhHkVXD_6QnXhZaVTQ9xC-88vA).catch(e=>console.log(e));
